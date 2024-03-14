@@ -1,16 +1,16 @@
 {
 	"trains": [
 		{
-			"name": "Hogwarts Express",
+			"name": "Vikrama Simhapuri",
 			"stops": [
 				{
-					"station": "Sycamore",
+					"station": "vijayawada",
 					"status": "ON-TIME",
 					"arrival": "12:00pm",
 					"departure": "12:10pm"
 				},
 				{
-					"station": "Pine",
+					"station": "ongle",
 					"status": "ON-TIME",
 					"arrival": "1:00pm",
 					"departure": "1:10pm"
@@ -18,16 +18,16 @@
 			]
 		},
 		{
-			"name": "Flying Scotsman",
+			"name": "Vandhe Bharath",
 			"stops": [
 				{
-					"station": "Pine",
+					"station": "tirupathi",
 					"status": "ON-TIME",
 					"arrival": "12:00pm",
 					"departure": "12:10pm"
 				},
 				{
-					"station": "Sycamore",
+					"station": "nellore",
 					"status": "DELAYED",
 					"arrival": "1:00pm",
 					"departure": "1:10pm",
@@ -37,16 +37,16 @@
 			]
 		},
 		{
-			"name": "Orient Express",
+			"name": "Coramandal",
 			"stops": [
 				{
-					"station": "Sycamore",
+					"station": "chennai",
 					"status": "ON-TIME",
 					"arrival": "12:00pm",
 					"departure": "12:10pm"
 				},
 				{
-					"station": "Cypress",
+					"station": "ongole",
 					"status": "DELAYED",
 					"arrival": "1:00pm",
 					"departure": "1:10pm",
